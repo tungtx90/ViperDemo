@@ -8,6 +8,8 @@
 import Foundation
 import UIKit
 
+// import
+
 protocol FruitDetailViewProtocol: UIViewController {
     var presenter: FruitDetailPresenterProtocol { get }
     
