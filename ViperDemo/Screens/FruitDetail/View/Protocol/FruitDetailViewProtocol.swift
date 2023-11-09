@@ -16,4 +16,5 @@ protocol FruitDetailViewProtocol: UIViewController {
     
     
     // sample test
+    // sample test 2
 }
