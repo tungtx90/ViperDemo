@@ -13,4 +13,9 @@ protocol FruitDetailViewProtocol: UIViewController {
     
     func updateTitle(_ title: String)
     func updateFruitInfo(info: FruitDetailViewModel)
+    
+    
+    // sample test
+    // sample test 2
+    // sampel test 3
 }
